@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2908 1035 171 197.232">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0f3763;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_214" data-name="Group 214" transform="translate(2908 1035)">
+    <path id="Path_187" data-name="Path 187" class="cls-1" d="M0,147.986V49.37L85.5,0,171,49.37v98.616L85.5,197.232Z"/>
+    <g id="Group_213" data-name="Group 213" transform="translate(27.716 46.029)">
+      <g id="Group_210" data-name="Group 210">
+        <g id="Group_209" data-name="Group 209">
+          <path id="Path_188" data-name="Path 188" class="cls-2" d="M29.205,101.17V45.614a1.638,1.638,0,0,1,1.609-1.609h98.74a1.638,1.638,0,0,1,1.609,1.609V101.17Zm55.68,16.209h-9.4V110.45h9.4v6.929ZM129.553,37.2H30.814A8.423,8.423,0,0,0,22.4,45.614v72.632a8.423,8.423,0,0,0,8.414,8.414H63.48l-1.237,8.909H53.457V142.5h53.577v-6.929H98.249l-1.237-8.909h32.542a8.423,8.423,0,0,0,8.414-8.414V45.614a8.5,8.5,0,0,0-8.414-8.414Z" transform="translate(-22.4 -37.2)"/>
+        </g>
+      </g>
+      <g id="Group_212" data-name="Group 212" transform="translate(36.749 14.972)">
+        <g id="Group_211" data-name="Group 211">
+          <path id="Path_189" data-name="Path 189" class="cls-2" d="M52.1,54V86.668a4.7,4.7,0,0,0,4.7,4.7H89.468a4.7,4.7,0,0,0,4.7-4.7V54a4.7,4.7,0,0,0-4.7-4.7H56.8A4.7,4.7,0,0,0,52.1,54Zm28.088,9.28a7.053,7.053,0,1,1-7.053-7.053,7.05,7.05,0,0,1,7.053,7.053ZM59.153,81.966c0-4.7,9.4-7.3,13.982-7.3,4.7,0,13.982,2.6,13.982,7.3v2.351H59.153Zm0,0" transform="translate(-52.1 -49.3)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

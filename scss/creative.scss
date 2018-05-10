@@ -1,0 +1,95 @@
+@import "variables.scss";
+@import "mixins.scss";
+@import "global.scss";
+@import "navbar.scss";
+@import "masthead.scss";
+@import "services.scss";
+@import "portfolio.scss";
+@import "bootstrap-overrides.scss";
+
+.mfp-image-holder .mfp-content {
+    max-width: 80%;
+}
+
+
+#book-overlay {
+    position: fixed; 
+    // display: none; 
+    width: 100vw; 
+    height: 100vh; 
+    top: 0; 
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba($cu, 0.95);
+    z-index: 999999999; 
+    cursor: pointer; 
+}
+
+#difs {
+    width: 100vw;
+    background: url('/img/bg-difs.png') no-repeat center center fixed;
+    background-size: cover;
+    .col-lg-2 {
+        margin-bottom: 20px;
+    }
+    .card {
+        height: 100%;
+    }
+    .dif-footer {
+        margin-top: 30px;
+        p {
+            text-align: justify
+        }
+    }
+}
+
+.dif-icon {
+    height: 100px;
+    margin-top: 25px;
+}
+
+.section-heading {
+    margin-bottom: 30px;
+}
+
+#social {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    .fa {
+        font-size: 32px;
+        margin: 15px;
+    }
+}
+
+#prices {
+    margin-top: 0;
+    padding-top: 0;
+    background: url('/img/bg-price.png') no-repeat center center fixed;
+    background-size: cover;
+    width: 100%;
+    .bg-cu {
+        padding: 30px;
+        background: rgba($cu, 0.36) !important;
+    }
+    .prices-cards {
+        .col-md-4 {
+            margin-bottom: 20px;
+            .card {
+                padding: 0 !important;
+                height: 100%;
+            }
+            .card-header {
+                background: $cu-light;
+                font-weight: 600;
+                text-transform: uppercase;
+            }
+            .card-footer {
+                color: $primary !important;
+                font-size: 24px;
+                font-weight: 600;
+            }
+        }
+        
+    }
+}

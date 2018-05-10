@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2575 2989.768 167.627 193.464">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_174" data-name="Group 174" transform="translate(2034 43)">
+    <path id="Path_141" data-name="Path 141" class="cls-1" d="M1.5,144.17V49.23L83.813,1.7l82.313,47.53v94.94L83.813,191.7Z" transform="translate(541 2946.8)"/>
+    <path id="Path_158" data-name="Path 158" class="cls-2" d="M36.507,45.772V12.684a12.629,12.629,0,1,0-25.257,0v33.2A23.741,23.741,0,0,0,0,66.066a23.934,23.934,0,0,0,47.868,0,24.433,24.433,0,0,0-11.36-20.294ZM23.934,81.507A15.487,15.487,0,0,1,8.493,66.066a15.8,15.8,0,0,1,8.824-14.007,4.266,4.266,0,0,0,2.426-3.75V37.941a4.191,4.191,0,0,1,8.382,0V48.309a3.967,3.967,0,0,0,2.426,3.75,15.476,15.476,0,0,1-6.618,29.449ZM45,36.507H67.5V28.125H45ZM45,11.25v8.493H67.5V11.25Zm0,0" transform="translate(591 2999)"/>
+  </g>
+</svg>
